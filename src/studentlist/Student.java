@@ -15,6 +15,9 @@ public class Student {
     private String studentName;
     private String studentId;
     private String program;
+    
+    public Student(){
+    }
 
     public Student(String name, String id, String prog)
     {
