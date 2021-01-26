@@ -7,8 +7,8 @@
 package studentlist;
 
 /**
- *
- * @author Megha Patel 2021 ,editing files
+ * Making changes
+ * @author Megha Patel 2021 ,
  */
 public class StudentList {
 
